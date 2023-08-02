@@ -1,0 +1,8 @@
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\bin\Debug\temperature_v1.0.exe.config
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\bin\Debug\temperature_v1.0.exe
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\bin\Debug\temperature_v1.0.pdb
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\obj\Debug\temperature_v1.0.csproj.AssemblyReference.cache
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\obj\Debug\temperature_v1.0.csproj.SuggestedBindingRedirects.cache
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\obj\Debug\temperature_v1.0.csproj.CoreCompileInputs.cache
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\obj\Debug\temperature_v1.0.exe
+N:\GIT\Testing\ConsoleAPP\temperature_v1.0\obj\Debug\temperature_v1.0.pdb
